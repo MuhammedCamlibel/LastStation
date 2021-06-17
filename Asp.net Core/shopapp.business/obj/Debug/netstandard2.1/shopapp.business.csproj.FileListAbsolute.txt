@@ -1,0 +1,42 @@
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.business.deps.json
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.business.dll
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.business.pdb
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.data.dll
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.entity.dll
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.entity.pdb
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.data.pdb
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.csproj.CopyComplete
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.dll
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.pdb
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.business.deps.json
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.business.dll
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.business.pdb
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.data.dll
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.entity.dll
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.entity.pdb
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.data.pdb
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.dll
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.pdb
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.business.deps.json
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.business.dll
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.business.pdb
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.data.dll
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.entity.dll
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.entity.pdb
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\bin\Debug\netstandard2.1\shopapp.data.pdb
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.csproj.CopyComplete
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.dll
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.business\obj\Debug\netstandard2.1\shopapp.business.pdb

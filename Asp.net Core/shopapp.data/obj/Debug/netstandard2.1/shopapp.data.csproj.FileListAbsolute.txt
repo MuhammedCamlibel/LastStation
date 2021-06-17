@@ -1,0 +1,36 @@
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.data.deps.json
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.data.dll
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.data.pdb
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.entity.dll
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.entity.pdb
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.csproj.CopyComplete
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.dll
+C:\Users\Muhammed\Desktop\WEB\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.pdb
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.data.deps.json
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.data.dll
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.data.pdb
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.entity.dll
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.entity.pdb
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.dll
+C:\Users\ASUS\Downloads\Asp.net Core\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.pdb
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.data.deps.json
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.data.dll
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.data.pdb
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.entity.dll
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\bin\Debug\netstandard2.1\shopapp.entity.pdb
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.csproj.CopyComplete
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.dll
+C:\Users\Muhammed\Desktop\Yeni klasör\Asp.net Core\shopapp.data\obj\Debug\netstandard2.1\shopapp.data.pdb

@@ -1,0 +1,24 @@
+<div class="container">
+  <div class="row">
+    <div class="col-8">
+        <form asp-controller="Contact" asp-action="Create" method="POST">
+
+            <div class="form-floating">
+                <label for="Message" >  Message </label>
+                <textarea class="form-control" name="Message" id="Message" cols="30" rows="10"></textarea>
+                 <br>
+                 <label for="mail">e-mail address for communication</label>
+                 <input type="email" name="mail" class="form-control">
+                 <br>  
+                <div><button class="btn btn-primary btn-lg" type="submit">Send</button></div>
+            </div>
+             
+        </form>
+    </div>
+    <div class="col-4">
+        <h3>Explanation</h3>
+        <hr>
+        <p>Vereceginiz mail adresinden iletişime geçilecektir.</p>
+    </div>
+</div>
+</div>

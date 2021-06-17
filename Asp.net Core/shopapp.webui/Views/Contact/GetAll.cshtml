@@ -1,0 +1,22 @@
+@model List<Contact>
+
+    <div class="container">
+        <div class="row">
+        @foreach (var item in Model)
+        { 
+            
+                <div class="col-6">
+
+                    <h3>Message</h3>
+                    <p>@item.Message</p>
+                    <hr>
+                    <h3>Email address</h3>
+                    <p>@item.Mail</p>
+                    <a href="mailto:@item.Mail" class="btn btn-primary">send mail</a>
+                    <a href="#" class="btn btn-danger">Delete</a>
+                </div> 
+            
+            
+        }
+        </div>
+    </div>
